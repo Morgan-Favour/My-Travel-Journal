@@ -43,7 +43,7 @@ header > h1 {
 /* Journal Entry */
 .journal-entry {
   display: flex;
-  margin: 3rem;
+  margin: 2rem;
   padding-bottom: 2rem;
   border-bottom: 1px solid #f0f0f0;
 }
